@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/vladimirkovesnikov/Study/tftds/hw1/worker.cpp" "CMakeFiles/worker.dir/worker.cpp.o" "gcc" "CMakeFiles/worker.dir/worker.cpp.o.d"
+  "/home/mrmamka/tftds/hw1/worker.cpp" "CMakeFiles/worker.dir/worker.cpp.o" "gcc" "CMakeFiles/worker.dir/worker.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

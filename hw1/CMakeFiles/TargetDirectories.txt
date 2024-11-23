@@ -1,4 +1,4 @@
-/Users/vladimirkovesnikov/Study/tftds/hw1/CMakeFiles/master.dir
-/Users/vladimirkovesnikov/Study/tftds/hw1/CMakeFiles/worker.dir
-/Users/vladimirkovesnikov/Study/tftds/hw1/CMakeFiles/edit_cache.dir
-/Users/vladimirkovesnikov/Study/tftds/hw1/CMakeFiles/rebuild_cache.dir
+/home/mrmamka/tftds/hw1/CMakeFiles/master.dir
+/home/mrmamka/tftds/hw1/CMakeFiles/worker.dir
+/home/mrmamka/tftds/hw1/CMakeFiles/edit_cache.dir
+/home/mrmamka/tftds/hw1/CMakeFiles/rebuild_cache.dir
